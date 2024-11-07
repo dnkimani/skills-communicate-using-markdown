@@ -10,3 +10,9 @@ There are 6 levels of headers, running from level 1 to 6, with a respective numb
 #load libraries
 library(here)
 ```
+
+## 4. Adding a Task List
+Here is my set of actions for GIS code
+- [ ] Finish Prac5
+- [ ] Work on hw2 and 3
+- [ ] Figure out the practice test
